@@ -1,0 +1,15 @@
+
+
+.enviameme{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foto{
+  margin-bottom: 5px;
+}
+
+.legenda{
+  margin: 10px;
+}

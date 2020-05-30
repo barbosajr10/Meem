@@ -1,0 +1,26 @@
+
+.conteudo{
+margin-top: 1vh;
+
+}
+
+#login{
+  margin: 10px;
+}
+
+#register{
+  margin: 10px;
+}
+
+.enviameme{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.rodape{
+  margin-top: 10px;
+  height: 100px;
+  background-color: #303030;
+}
